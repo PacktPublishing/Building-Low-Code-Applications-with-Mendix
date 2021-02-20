@@ -42,7 +42,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1 to 13      | Mendix Studio Pro 8.11 or higher                     | Windows 7 (Service pack 1 or higher), Windows 8 or 10 64-bit |
+| 1 to 13      | Mendix Studio Pro 8.11 or higher                     | Windows 7 (Service pack 1 or higher), Windows 8 or 10 (64-bit) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800201422_ColorImages.pdf).
 
