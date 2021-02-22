@@ -1,8 +1,8 @@
-# Building Low Code Applications with Mendix
+# 	Building Low-Code Applications with Mendix
 
-<a href="https://www.packtpub.com/product/building-low-code-applications-with-mendix/9781800201422"><img src="https://static.packt-cdn.com/products/9781800201422/cover/smaller" alt="Building Low Code Applications with Mendix" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/building-low-code-applications-with-mendix/9781800201422"><img src="https://static.packt-cdn.com/products/9781800201422/cover/smaller" alt="Building Low-Code Applications with Mendix" height="256px" align="right"></a>
 
-This is the code repository for [Building Low Code Applications with Mendix](https://www.packtpub.com/product/building-low-code-applications-with-mendix/9781800201422), published by Packt.
+This is the code repository for [Building Low-Code Applications with Mendix](https://www.packtpub.com/product/building-low-code-applications-with-mendix/9781800201422), published by Packt.
 
 **Enterprise web development made easy with Mendix and the power of low-code development**
 
