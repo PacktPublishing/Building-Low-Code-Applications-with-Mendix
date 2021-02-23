@@ -4,7 +4,7 @@
 
 This is the code repository for [Building Low-Code Applications with Mendix](https://www.packtpub.com/product/building-low-code-applications-with-mendix/9781800201422), published by Packt.
 
-**Enterprise web development made easy with Mendix and the power of low-code development**
+**Discover best practices and expert techniques to simplify enterprise web development**
 
 ## What is this book about?
 The book starts with an introduction to Mendix and its elements, along with the reasons for using this platform and the tools needed for creating your first application. As you progress, you’ll explore Mendix Modeler, the visual environment that will help you get to grips with Mendix app creation. Once you have your working application ready, you will learn how to enhance your application with custom business logic and rules. Throughout the chapters, you’ll find out how to defend your apps against bad data, troubleshoot and debug your app, and finally, connect your app with real-world business platforms. The book is filled with walkthrough examples, real-world scenarios, and explanations of the tools needed to help you build low-code apps successfully.
