@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-On Low-Code Application Development with Salesforce [[Packt]](https://www.packtpub.com/product/hands-on-low-code-application-development-with-salesforce/9781800209770) [[Amazon]](https://www.amazon.com/dp/1800209770)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Bryan Kenneweg**
 is a Mendix Advanced Certified software engineer at eXp Realty specializing in low code development. He has worked as a consultant at TimeSeries and a freelance developer. Bryan enjoys ﬁnding solutions for organizations to be more successful.
 
