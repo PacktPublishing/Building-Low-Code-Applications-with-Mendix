@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B16202?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # 	Building Low-Code Applications with Mendix
 
 <a href="https://www.packtpub.com/product/building-low-code-applications-with-mendix/9781800201422"><img src="https://static.packt-cdn.com/products/9781800201422/cover/smaller" alt="Building Low-Code Applications with Mendix" height="256px" align="right"></a>
