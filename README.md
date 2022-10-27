@@ -61,3 +61,7 @@ is a software architect at eXp Realty. He is a Medix Expert Certified Developer 
 **Micah McMullen**
 is a software engineer and team lead at eXp Realty. He is Mendix Advanced Certified and specializes in low code development, software integration, business analytics, and Jedi Mind Tricks.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800201422">https://packt.link/free-ebook/9781800201422 </a> </p>
